@@ -17,7 +17,7 @@ public class ProvaCMain {
 			if(numeros[i] > 0) {
 				i++;
 			}
-			else {
+			else{
 				System.out.println("Nao permitido numeros iguais ou menor que zero");
 			}
 		}while(i < 8);
